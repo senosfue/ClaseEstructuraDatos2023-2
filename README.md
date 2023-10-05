@@ -1,2 +1,4 @@
 # ClaseEstructuraDatos2023-2
-clase de estructura de datos
+
+Este proyecto 
+tiene como objetivo explicar el funcionamiento de git
